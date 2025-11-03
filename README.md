@@ -1,4 +1,3 @@
-// ...existing code...
 # 🧠 Fake Job Posting Detection
 
 A machine learning web app that detects **fake or fraudulent job postings** based on job description text.  
