@@ -77,14 +77,6 @@ If you save the trained model (e.g., `model.pkl` and `tfidf.pkl`), include those
 
 ---
 
-## 🔧 Example
-
-Start app and paste a job description in the web UI. The app will show a prediction (Real / Fake) and the model confidence.
-
-If you have a CLI or script for predictions, show sample usage here.
-
----
-
 ## ✅ Suggestions / Improvements
 
 - Use transformer models (BERT, RoBERTa) for better contextual understanding  
@@ -94,16 +86,8 @@ If you have a CLI or script for predictions, show sample usage here.
 
 ---
 
-## 📄 License
-Add a license (e.g., MIT) or specify project license.
-
----
-
 ## 👨‍💻 Author
 Mudit Sharma (Roll No: 16014223055)  
-Machine Learning Mini Project – College Assignment
+Machine Learning Mini Project 
 
----
 
-## ✉️ Contact
-Include an email or GitHub profile for questions or contributions.
